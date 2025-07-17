@@ -1,6 +1,6 @@
 # 👨‍💻 Lucas Mateus
 
-**Desenvolvedor Front-end | Estudante de Engenharia de Software**
+**Área de Dados | Estudante de Engenharia de Software**
 
 Sou natural de Recife (PE), tenho 20 anos e sou formado em Eletrotécnica pelo Ensino Público. Atualmente, curso Engenharia de Software na Wyden (UNIFBV), onde continuo a expandir meus conhecimentos e habilidades em desenvolvimento de software.
 
