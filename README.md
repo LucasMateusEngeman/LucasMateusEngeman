@@ -2,7 +2,11 @@
 
 **Desenvolvedor Front-end | Estudante de Engenharia de Software**
 
-Sou natural de Recife (PE), tenho 20 anos e sou formado em Eletrotécnica pelo Ensino Público. Atualmente curso Engenharia de Software na Wyden (UNIFBV) e sou apaixonado por tecnologia. Gosto de compartilhar meus aprendizados e projetos no GitHub e LinkedIn, sempre buscando evoluir como desenvolvedor.
+Sou natural de Recife (PE), tenho 20 anos e sou formado em Eletrotécnica pelo Ensino Público. Atualmente, curso Engenharia de Software na Wyden (UNIFBV), onde continuo a expandir meus conhecimentos e habilidades em desenvolvimento de software.
+
+Apaixonado por tecnologia, busco sempre evoluir como profissional, explorando novas ferramentas e metodologias. Compartilho meus aprendizados, projetos e contribuições com a comunidade de desenvolvedores no GitHub e LinkedIn, com o objetivo de aprender, ensinar e colaborar em projetos inovadores.
+
+Tenho o compromisso de aprimorar minhas competências técnicas e de resolver desafios complexos, com o foco em entregar soluções eficientes e de qualidade.
 
 ---
 
